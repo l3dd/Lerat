@@ -1,0 +1,15 @@
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\obj\Debug\LeratHarborMapTests.csprojResolveAssemblyReference.cache
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\LeratHarborMapTests.dll
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\LeratHarborMapTests.pdb
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\LeratHarborMap.exe
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\LeratHarborMap.pdb
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\obj\Debug\LeratHarborMapTests.dll
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\obj\Debug\LeratHarborMapTests.pdb
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\log4net.dll
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\log4net.xml
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\nunit.framework.dll
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\nunit.framework.xml
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\Resources\HarborMap.jpg
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\Resources\HarborMap.xml
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\Resources\Copy of HarborMap.xml
+C:\Users\Ausy\Documents\Visual Studio 2012\Projects\Lerat\Tests\LeratHarborMapTests\bin\Debug\LeratHarborMapTests.dll.config
