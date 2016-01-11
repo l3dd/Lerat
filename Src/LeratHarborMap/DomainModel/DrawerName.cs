@@ -61,7 +61,7 @@ namespace LeratHarborMap.DomainModel
                     mainGraphic.TranslateTransform(anchor.Coord.X, anchor.Coord.Y);
                     mainGraphic.RotateTransform(line.Rotation);
                     RectangleF rectf = new RectangleF(0, 0, 250, 995);
-                    mainGraphic.DrawString(anchor.LastName, new Font("Tahoma", 8), Brushes.Red, rectf);
+                    mainGraphic.DrawString(anchor.LastName, new Font("Tahoma", 6), Brushes.Red, rectf);
                     mainGraphic.EndContainer(container);
                 }
             }

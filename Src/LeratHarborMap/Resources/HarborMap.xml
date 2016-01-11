@@ -7,56 +7,56 @@
 			  <X>497</X>
 			  <Y>1000</Y>
 		  </Coord>
-          <FirstName>nom A1</FirstName>
-          <LastName>test LastName</LastName>
+           <FirstName></FirstName>
+           <LastName></LastName>
         </Anchorage>
         <Anchorage Name="2">
 		  <Coord>
 			  <X>515</X>
 			  <Y>1060</Y>
 		  </Coord>
-          <FirstName>nom a2</FirstName>
-          <LastName>test LastName</LastName>
+           <FirstName></FirstName>
+           <LastName></LastName>
         </Anchorage>
         <Anchorage Name="3">
 		  <Coord>
 			  <X>530</X>
 			  <Y>1125</Y>
 		  </Coord>
-          <FirstName>nom a3</FirstName>
-          <LastName>test LastName</LastName>
+           <FirstName></FirstName>
+           <LastName></LastName>
         </Anchorage>
         <Anchorage Name="4">
 		  <Coord>
 			  <X>547</X>
 			  <Y>1185</Y>
 		  </Coord>
-          <FirstName>nom a4</FirstName>
-          <LastName>test LastName</LastName>
+           <FirstName></FirstName>
+           <LastName></LastName>
         </Anchorage>
         <Anchorage Name="5">
 		  <Coord>
 			  <X>563</X>
 			  <Y>1245</Y>
 		  </Coord>
-          <FirstName>nom a5</FirstName>
-          <LastName>test LastName</LastName>
+           <FirstName></FirstName>
+           <LastName></LastName>
         </Anchorage>
         <Anchorage Name="6">
 		  <Coord>
 			  <X>580</X>
 			  <Y>1305</Y>
 		  </Coord>
-          <FirstName>nom a6</FirstName>
-          <LastName>test LastName</LastName>
+           <FirstName></FirstName>
+           <LastName></LastName>
         </Anchorage>
         <Anchorage Name="7">
 		  <Coord>
 			  <X>595</X>
 			  <Y>1365</Y>
 		  </Coord>
-          <FirstName>nom a7</FirstName>
-          <LastName>test LastName</LastName>
+           <FirstName></FirstName>
+           <LastName></LastName>
         </Anchorage>
       </Anchorages>
     </Line>
@@ -68,40 +68,40 @@
 				  <X>866</X>
 				  <Y>978</Y>
 			  </Coord>
-			  <FirstName>Prenom C1</FirstName>
-			  <LastName>nom C1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>885</X>
 				  <Y>1035</Y>
 			  </Coord>
-			  <FirstName>Prenom C2</FirstName>
-			  <LastName>nom C2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>905</X>
 				  <Y>1094</Y>
 			  </Coord>
-			  <FirstName>Prenom C3</FirstName>
-			  <LastName>nom C3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord>
 				  <X>925</X>
 				  <Y>1152</Y>
 			  </Coord>
-			  <FirstName>Prenom C4</FirstName>
-			  <LastName>nom C4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord>
 				  <X>950</X>
 				  <Y>1215</Y>
 			  </Coord>
-			  <FirstName>Prenom C5</FirstName>
-			  <LastName>nom C5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		 </Anchorages>
 	</Line>
@@ -112,32 +112,32 @@
 				  <X>1040</X>
 				  <Y>953</Y>
 			  </Coord>
-			  <FirstName>Prenom D1</FirstName>
-			  <LastName>nom D1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>1055</X>
 				  <Y>1000</Y>
 			  </Coord>
-			  <FirstName>Prenom D2</FirstName>
-			  <LastName>nom D2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>1080</X>
 				  <Y>1070</Y>
 			  </Coord>
-			  <FirstName>Prenom D3</FirstName>
-			  <LastName>nom D3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord>
 				  <X>1105</X>
 				  <Y>1140</Y>
 			  </Coord>
-			  <FirstName>Prenom D4</FirstName>
-			  <LastName>nom D4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		 </Anchorages>
 	</Line>
@@ -148,32 +148,32 @@
 				  <X>1207</X>
 				  <Y>891</Y>
 			  </Coord>
-			  <FirstName>Prenom E1</FirstName>
-			  <LastName>nom E1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>1228</X>
 				  <Y>955</Y>
 			  </Coord>
-			  <FirstName>Prenom E2</FirstName>
-			  <LastName>nom E2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>1250</X>
 				  <Y>1027</Y>
 			  </Coord>
-			  <FirstName>Prenom E3</FirstName>
-			  <LastName>nom E3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord>
 				  <X>1270</X>
 				  <Y>1095</Y>
 			  </Coord>
-			  <FirstName>Prenom E4</FirstName>
-			  <LastName>nom E4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		 </Anchorages>
 	</Line>
@@ -184,24 +184,24 @@
 				  <X>1428</X>
 				  <Y>907</Y>
 			  </Coord>
-			  <FirstName>Prenom F1</FirstName>
-			  <LastName>nom F1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>1442</X>
 				  <Y>978</Y>
 			  </Coord>
-			  <FirstName>Prenom F2</FirstName>
-			  <LastName>nom F2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>1456</X>
 				  <Y>1048</Y>
 			  </Coord>
-			  <FirstName>Prenom F3</FirstName>
-			  <LastName>nom F3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		 </Anchorages>
 	</Line>
@@ -212,32 +212,32 @@
 				  <X>1628</X>
 				  <Y>915</Y>
 			  </Coord>
-			  <FirstName>Prenom G1</FirstName>
-			  <LastName>nom G1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>1631</X>
 				  <Y>980</Y>
 			  </Coord>
-			  <FirstName>Prenom G2</FirstName>
-			  <LastName>nom G2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>1637</X>
 				  <Y>1037</Y>
 			  </Coord>
-			  <FirstName>Prenom G3</FirstName>
-			  <LastName>nom G3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>1641</X>
 				  <Y>1096</Y>
 			  </Coord>
-			  <FirstName>Prenom G4</FirstName>
-			  <LastName>nom G4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		 </Anchorages>
 	</Line>
@@ -248,32 +248,32 @@
 				  <X>1803</X>
 				  <Y>909</Y>
 			  </Coord>
-			  <FirstName>Prenom H1</FirstName>
-			  <LastName>nom H1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>1806</X>
 				  <Y>968</Y>
 			  </Coord>
-			  <FirstName>Prenom H2</FirstName>
-			  <LastName>nom H2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>1810</X>
 				  <Y>1028</Y>
 			  </Coord>
-			  <FirstName>Prenom H3</FirstName>
-			  <LastName>nom H3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>1813</X>
 				  <Y>1094</Y>
 			  </Coord>
-			  <FirstName>Prenom H4</FirstName>
-			  <LastName>nom H4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		 </Anchorages>
 	</Line>
@@ -284,32 +284,32 @@
 				  <X>1974</X>
 				  <Y>882</Y>
 			  </Coord>
-			  <FirstName>Prenom I1</FirstName>
-			  <LastName>nom I1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>1978</X>
 				  <Y>951</Y>
 			  </Coord>
-			  <FirstName>Prenom I2</FirstName>
-			  <LastName>nom I2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>1981</X>
 				  <Y>1031</Y>
 			  </Coord>
-			  <FirstName>Prenom I3</FirstName>
-			  <LastName>nom I3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>1985</X>
 				  <Y>1111</Y>
 			  </Coord>
-			  <FirstName>Prenom I4</FirstName>
-			  <LastName>nom I4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		 </Anchorages>
 	</Line>
@@ -320,40 +320,40 @@
 				  <X>2146</X>
 				  <Y>859</Y>
 			  </Coord>
-			  <FirstName>Prenom J1</FirstName>
-			  <LastName>nom J1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>2149</X>
 				  <Y>933</Y>
 			  </Coord>
-			  <FirstName>Prenom J2</FirstName>
-			  <LastName>nom J2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>2152</X>
 				  <Y>1008</Y>
 			  </Coord>
-			  <FirstName>Prenom J3</FirstName>
-			  <LastName>nom J3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>2155</X>
 				  <Y>1080</Y>
 			  </Coord>
-			  <FirstName>Prenom J4</FirstName>
-			  <LastName>nom J4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord> 
 				  <X>2157</X>
 				  <Y>1158</Y>
 			  </Coord>
-			  <FirstName>Prenom J5</FirstName>
-			  <LastName>nom J5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		 </Anchorages>
 	</Line>
@@ -364,56 +364,56 @@
 			  <X>2311</X>
 			  <Y>833</Y>
 		  </Coord>
-		  <FirstName>Prenom K1</FirstName>
-		  <LastName>nom K1</LastName>
+		   <FirstName></FirstName>
+		   <LastName></LastName>
 		</Anchorage>
 		<Anchorage Name="2">
 		  <Coord>
 			  <X>2310</X>
 			  <Y>888</Y>
 		  </Coord>
-		  <FirstName>Prenom K2</FirstName>
-		  <LastName>nom K2</LastName>
+		   <FirstName></FirstName>
+		   <LastName></LastName>
 		</Anchorage>
 		<Anchorage Name="3">
 		  <Coord> 
 			  <X>2314</X>
 			  <Y>954</Y>
 		  </Coord>
-		  <FirstName>Prenom K3</FirstName>
-		  <LastName>nom K3</LastName>
+		   <FirstName></FirstName>
+		   <LastName></LastName>
 		</Anchorage>
 		<Anchorage Name="4">
 		  <Coord> 
 			  <X>2314</X>
 			  <Y>1016</Y>
 		  </Coord>
-		  <FirstName>Prenom K4</FirstName>
-		  <LastName>nom K4</LastName>
+		   <FirstName></FirstName>
+		   <LastName></LastName>
 		</Anchorage>
 		<Anchorage Name="5">
 		  <Coord> 
 			  <X>2314</X>
 			  <Y>1076</Y>
 		  </Coord>
-		  <FirstName>Prenom K5</FirstName>
-		  <LastName>nom K5</LastName>
+		   <FirstName></FirstName>
+		   <LastName></LastName>
 		</Anchorage>
 		<Anchorage Name="6">
 		  <Coord> 
 			  <X>2316</X>
 			  <Y>1134</Y>
 		  </Coord>
-		  <FirstName>Prenom K6</FirstName>
-		  <LastName>nom K6</LastName>
+		   <FirstName></FirstName>
+		   <LastName></LastName>
 		</Anchorage>
 		<Anchorage Name="7">
 		  <Coord> 
 			  <X>2316</X>
 			  <Y>1192</Y>
 		  </Coord>
-		  <FirstName>Prenom K7</FirstName>
-		  <LastName>nom K7</LastName>
+		   <FirstName></FirstName>
+		   <LastName></LastName>
 		</Anchorage>
 	 </Anchorages>
 	</Line>
@@ -424,56 +424,56 @@
 				  <X>2490</X>
 				  <Y>814</Y>
 			  </Coord>
-			  <FirstName>Prenom L1</FirstName>
-			  <LastName>nom L1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>2490</X>
 				  <Y>882</Y>
 			  </Coord>
-			  <FirstName>Prenom L2</FirstName>
-			  <LastName>nom L2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>2490</X>
 				  <Y>949</Y>
 			  </Coord>
-			  <FirstName>Prenom L3</FirstName>
-			  <LastName>nom L3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>2490</X>
 				  <Y>1016</Y>
 			  </Coord>
-			  <FirstName>Prenom L4</FirstName>
-			  <LastName>nom L4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord> 
 				  <X>2490</X>
 				  <Y>1080</Y>
 			  </Coord>
-			  <FirstName>Prenom L5</FirstName>
-			  <LastName>nom L5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="6">
 			  <Coord> 
 				  <X>2490</X>
 				  <Y>1148</Y>
 			  </Coord>
-			  <FirstName>Prenom L6</FirstName>
-			  <LastName>nom L6</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="7">
 			  <Coord> 
 				  <X>2493</X>
 				  <Y>1210	</Y>
 			  </Coord>
-			  <FirstName>Prenom L7</FirstName>
-			  <LastName>nom L7</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		</Anchorages>
 	</Line>
@@ -484,64 +484,64 @@
 				  <X>2653</X>
 				  <Y>738</Y>
 			  </Coord>
-			  <FirstName>Prenom M1.1</FirstName>
-			  <LastName>nom M1.1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>2653</X>
 				  <Y>812</Y>
 			  </Coord>
-			  <FirstName>Prenom M1.2</FirstName>
-			  <LastName>nom M1.2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>2654</X>
 				  <Y>871</Y>
 			  </Coord>
-			  <FirstName>Prenom M1.3</FirstName>
-			  <LastName>nom M1.3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>2654</X>
 				  <Y>936</Y>
 			  </Coord>
-			  <FirstName>Prenom M1.4</FirstName>
-			  <LastName>nom M1.4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord> 
 				  <X>2654</X>
 				  <Y>1004</Y>
 			  </Coord>
-			  <FirstName>Prenom M1.5</FirstName>
-			  <LastName>nom M1.5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="6">
 			  <Coord> 
 				  <X>2654</X>
 				  <Y>1072</Y>
 			  </Coord>
-			  <FirstName>Prenom M1.6</FirstName>
-			  <LastName>nom M1.6</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="7">
 			  <Coord> 
 				  <X>2654</X>
 				  <Y>1139</Y>
 			  </Coord>
-			  <FirstName>Prenom M1.7</FirstName>
-			  <LastName>nom M1.7</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="8">
 			  <Coord> 
 				  <X>2654</X>
 				  <Y>1216</Y>
 			  </Coord>
-			  <FirstName>Prenom M1.8</FirstName>
-			  <LastName>nom M1.8</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		</Anchorages>
 	</Line>
@@ -552,64 +552,64 @@
 				  <X>2806</X>
 				  <Y>772</Y>
 			  </Coord>
-			  <FirstName>Prenom M2.1</FirstName>
-			  <LastName>nom M2.1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>2805</X>
 				  <Y>832</Y>
 			  </Coord>
-			  <FirstName>Prenom M2.2</FirstName>
-			  <LastName>nom M2.2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>2806</X>
 				  <Y>906</Y>
 			  </Coord>
-			  <FirstName>Prenom M2.3</FirstName>
-			  <LastName>nom M2.3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>2804</X>
 				  <Y>958</Y>
 			  </Coord>
-			  <FirstName>Prenom M2.4</FirstName>
-			  <LastName>nom M2.4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord> 
 				  <X>2804</X>
 				  <Y>1017</Y>
 			  </Coord>
-			  <FirstName>Prenom M2.5</FirstName>
-			  <LastName>nom M2.5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="6">
 			  <Coord> 
 				  <X>2804</X>
 				  <Y>1079</Y>
 			  </Coord>
-			  <FirstName>Prenom M2.6</FirstName>
-			  <LastName>nom M2.6</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="7">
 			  <Coord> 
 				  <X>2802</X>
 				  <Y>1142</Y>
 			  </Coord>
-			  <FirstName>Prenom M2.7</FirstName>
-			  <LastName>nom M2.7</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 				<Anchorage Name="8">
 			  <Coord> 
 				  <X>2802</X>
 				  <Y>1217</Y>
 			  </Coord>
-			  <FirstName>Prenom M2.8</FirstName>
-			  <LastName>nom M2.8</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		</Anchorages>
 	</Line>
@@ -620,40 +620,40 @@
 				  <X>2828</X>
 				  <Y>1499</Y>
 			  </Coord>
-			  <FirstName>Prenom N1</FirstName>
-			  <LastName>nom N1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>2772</X>
 				  <Y>1499</Y>
 			  </Coord>
-			  <FirstName>Prenom N2</FirstName>
-			  <LastName>nom N2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>2712</X>
 				  <Y>1500</Y>
 			  </Coord>
-			  <FirstName>Prenom N3</FirstName>
-			  <LastName>nom N3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>2653</X>
 				  <Y>1500</Y>
 			  </Coord>
-			  <FirstName>Prenom N4</FirstName>
-			  <LastName>nom N4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord> 
 				  <X>2590</X>
 				  <Y>1505</Y>
 			  </Coord>
-			  <FirstName>Prenom N5</FirstName>
-			  <LastName>nom N5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		</Anchorages>
 	</Line>
@@ -664,40 +664,40 @@
 				  <X>2830</X>
 				  <Y>1686</Y>
 			  </Coord>
-			  <FirstName>Prenom O1</FirstName>
-			  <LastName>nom O1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>2772</X>
 				  <Y>1687</Y>
 			  </Coord>
-			  <FirstName>Prenom O2</FirstName>
-			  <LastName>nom O2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>2712</X>
 				  <Y>1690</Y>
 			  </Coord>
-			  <FirstName>Prenom O3</FirstName>
-			  <LastName>nom O3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>2653</X>
 				  <Y>1692</Y>
 			  </Coord>
-			  <FirstName>Prenom O4</FirstName>
-			  <LastName>nom O4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord> 
 				  <X>2591</X>
 				  <Y>1695</Y>
 			  </Coord>
-			  <FirstName>Prenom O5</FirstName>
-			  <LastName>nom O5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		</Anchorages>
 	</Line>
@@ -708,40 +708,40 @@
 				  <X>2830</X>
 				  <Y>1854</Y>
 			  </Coord>
-			  <FirstName>Prenom P1</FirstName>
-			  <LastName>nom P1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>2772</X>
 				  <Y>1858</Y>
 			  </Coord>
-			  <FirstName>Prenom P2</FirstName>
-			  <LastName>nom P2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>2712</X>
 				  <Y>1860</Y>
 			  </Coord>
-			  <FirstName>Prenom P3</FirstName>
-			  <LastName>nom P3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>2653</X>
 				  <Y>1862</Y>
 			  </Coord>
-			  <FirstName>Prenom P4</FirstName>
-			  <LastName>nom P4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord> 
 				  <X>2582</X>
 				  <Y>1864</Y>
 			  </Coord>
-			  <FirstName>Prenom P5</FirstName>
-			  <LastName>nom P5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		</Anchorages>
 	</Line>
@@ -752,40 +752,40 @@
 				  <X>2822</X>
 				  <Y>2014</Y>
 			  </Coord>
-			  <FirstName>Prenom Q1</FirstName>
-			  <LastName>nom Q1</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="2">
 			  <Coord>
 				  <X>2772</X>
 				  <Y>2014</Y>
 			  </Coord>
-			  <FirstName>Prenom Q2</FirstName>
-			  <LastName>nom Q2</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="3">
 			  <Coord> 
 				  <X>2712</X>
 				  <Y>2022</Y>
 			  </Coord>
-			  <FirstName>Prenom Q3</FirstName>
-			  <LastName>nom Q3</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="4">
 			  <Coord> 
 				  <X>2652</X>
 				  <Y>2026</Y>
 			  </Coord>
-			  <FirstName>Prenom Q4</FirstName>
-			  <LastName>nom Q4</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 			<Anchorage Name="5">
 			  <Coord> 
 				  <X>2582</X>
 				  <Y>2022</Y>
 			  </Coord>
-			  <FirstName>Prenom Q5</FirstName>
-			  <LastName>nom Q5</LastName>
+			   <FirstName></FirstName>
+			   <LastName></LastName>
 			</Anchorage>
 		</Anchorages>
 	</Line>
