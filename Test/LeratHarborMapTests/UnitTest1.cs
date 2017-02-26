@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Xml.Serialization;
-using LeratHarborMap.DomainModel;
+using Lerat.Core.DomainModel;
 using NUnit.Framework;
+using System.Data.OleDb;
 
 namespace LeratHarborMapTests
 {
@@ -14,8 +15,7 @@ namespace LeratHarborMapTests
         [Test]
         public void TestMethod1()
         {
-            Harbor leratHarbor = new Harbor("Lerat", @"./Resources/HarborMap.jpg");
-            Assert.IsTrue(leratHarbor.Map.Exists);
+            Harbor leratHarbor = new Harbor("Lerat");            
             Assert.IsFalse(string.IsNullOrEmpty(leratHarbor.Name));
         }
         
@@ -23,8 +23,12 @@ namespace LeratHarborMapTests
         public void DeserializeTest()
         {
             Harbor harbor;
+            var harborMapXmlFilePath = System.AppDomain.CurrentDomain.BaseDirectory + @"\Resources\HarborMap.xml";
             XmlSerializer xmlSerializer = new XmlSerializer(typeof (Harbor));
-            using (StreamReader reader = new StreamReader(@"./Resources/HarborMap.xml"))
+
+            Assert.IsTrue(File.Exists(harborMapXmlFilePath));
+
+            using (StreamReader reader = new StreamReader(harborMapXmlFilePath))
             {
                 harbor = (Harbor)xmlSerializer.Deserialize(reader);
             }
@@ -32,8 +36,8 @@ namespace LeratHarborMapTests
             Assert.IsNotNull(harbor);
             Assert.IsTrue(harbor.Lines.Any());
             Assert.IsTrue(harbor.Lines.First().Anchorages.Any());
-            Assert.IsFalse(string.IsNullOrEmpty(harbor.Lines.First().Anchorages.First().FirstName));
-            Assert.IsFalse(string.IsNullOrEmpty(harbor.Lines.First().Anchorages.First().LastName));
+            Assert.IsTrue(string.IsNullOrEmpty(harbor.Lines.First().Anchorages.First().FirstName));
+            Assert.IsTrue(string.IsNullOrEmpty(harbor.Lines.First().Anchorages.First().LastName));
             Assert.IsFalse(string.IsNullOrEmpty(harbor.Lines.First().Anchorages.First().Name));
             Assert.IsNotNull(harbor.Lines.First().Anchorages.First().Coord);
         }
@@ -73,9 +77,8 @@ namespace LeratHarborMapTests
             }
 
             // draw the map
-
-            DrawerName d = new DrawerName(@"./Resources/HarborMap.jpg", harbor);
-            d.Draw();
+            DrawerName d = new DrawerName(harbor);
+            d.DrawLines();
         }
 
         private TemporaryPersonn splitLineInObject(string line)
@@ -88,18 +91,47 @@ namespace LeratHarborMapTests
             return ts;
         }
 
+        private void CleanAllImageFromExecutionDirectory()
+        {
+            var di = new DirectoryInfo(System.AppDomain.CurrentDomain.BaseDirectory);
+            di.GetFiles("*.jpg").ToList().ForEach(image => image.Delete());
+            di = null;
+        }
+
+        /// <summary>
+        /// Load a Harbor Map and draw name from the harmap.xml file.
+        /// The generated file should be on test execution directory with name "PlanLeratAvecNoms.jpg"
+        /// </summary>
         [Test]
         public void DrawingTest()
         {
+            CleanAllImageFromExecutionDirectory();
+
+            // populate dummy datas
+            // read datas from xml : name and coordinates
             Harbor harbor;
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(Harbor));
-            using (StreamReader reader = new StreamReader(@"./Resources/HarborMap.xml"))
+            using (StreamReader reader = new StreamReader(System.AppDomain.CurrentDomain.BaseDirectory + @"Resources\HarborMap.xml"))
             {
                 harbor = (Harbor)xmlSerializer.Deserialize(reader);
             }
-            
-            DrawerName d = new DrawerName(@"./Resources/HarborMap.jpg", harbor);
-            d.Draw();
+
+            // provide some dummy names because the xml harbormap is empty
+            foreach (var line in harbor.Lines)
+            {
+                foreach (var anchore in line.Anchorages)
+                {
+                    anchore.FirstName = line.Name + " names";
+                    anchore.LastName = line.Name + " Lastnames " + anchore.Name;
+                }
+            }
+
+            // 
+            DrawerName d = new DrawerName(harbor);
+            d.DrawLines();
+
+            Assert.AreEqual(3, Directory.GetFiles(System.AppDomain.CurrentDomain.BaseDirectory, "*.jpg").Length, "The generated file was not found");
+            // CleanAllImageFromExecutionDirectory();
         }
     }
 
